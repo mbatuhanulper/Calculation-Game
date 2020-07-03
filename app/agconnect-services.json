@@ -1,0 +1,26 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"890090000023105693",
+		"product_id":"9105385871708288180",
+		"client_id":"244712651630838784",
+		"client_secret":"E9613D7D523EE91C09F9D4BC30AC1D4F13DC913F483CF669C0EBD7FDA4E3D486",
+		"app_id":"101452393",
+		"package_name":"com.dtsetr.gamekitdemo.huawei"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.hicloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
